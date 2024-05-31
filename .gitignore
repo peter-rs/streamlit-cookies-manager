@@ -2,6 +2,7 @@
 *.pyo
 node_modules/
 
+.venv/
 .idea/
 /dist/
 /streamlit_cookies_manager/build/
